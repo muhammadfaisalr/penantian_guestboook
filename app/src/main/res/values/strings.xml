@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Penantian Guestbook</string>
+    <string name="hello_blank_fragment" translatable="true">Hello blank fragment</string>
+    <string name="sheet_name" translatable="true">Nama Sheet</string>
+    <string name="id_sheet" translatable="true">ID Sheet</string>
+    <string name="column" translatable="true">Kolom</string>
+    <string name="row" translatable="true">Baris</string>
+    <string name="notes" translatable="true">Catatan</string>
+    <string name="note_value" translatable="true">Pastikan mengisi Nama Sheet dan ID Sheet\ndengan benar agar data terbaca</string>
+    <string name="input_access_code" translatable="true">Masukkan Kode Akses</string>
+    <string name="access_code">Kode Akses</string>
+    <string name="start">Mulai</string>
+    <string name="pin_empty">Anda Belum Memasukkan Pin</string>
+    <string name="pin_incorrect">Pin Yang Anda Masukkan Salah</string>
+    <string name="dont_have_access_code">Belum memiliki kode akses?</string>
+    <string name="contact">Hubungi</string>
+    <string name="penantian_com">Penantian.com</string>
+    <string name="access_denied">Akses Ditolak</string>
+    <string name="access_accepted">Akses Diterima</string>
+    <string name="open_spreadsheet">Buka Spreadsheet</string>
+    <string name="spreadsheet_not_yet_configured">Anda belum mengatur konfigurasi spreadsheet</string>
+    <string name="save">Simpan</string>
+    <string name="saved">Data tersimpan</string>
+    <string name="setting">Pengaturan</string>
+    <string name="preview">Pratinjau</string>
+    <string name="result">Hasil</string>
+    <string name="time">Waktu</string>
+    <string name="name">Nama</string>
+    <string name="logout">Logout</string>
+    <string name="help">Bantuan</string>
+    <string name="export_pdf">Ekspor PDF</string>
+    <string name="guest_name">Nama Tamu</string>
+    <string name="text_copyright">2021 © penantian.com</string>
+
+    <string-array name="lang_array">
+        <item>Indonesia</item>
+        <item>English</item>
+    </string-array>
+
+</resources>

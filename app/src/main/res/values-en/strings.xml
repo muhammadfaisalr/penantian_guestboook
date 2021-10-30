@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Penantian QR Scanner</string>
+    <string name="hello_blank_fragment" translatable="true">Hello blank fragment</string>
+    <string name="sheet_name"  translatable="true">Sheet Name</string>
+    <string name="id_sheet"  translatable="true">Sheet ID</string>
+    <string name="column"  translatable="true">Column</string>
+    <string name="row"  translatable="true">Row</string>
+    <string name="notes"  translatable="true">Note</string>
+    <string name="note_value"  translatable="true">Make sure to fill in the Sheet Name and ID Sheet\n correctly so that the data can be read</string>
+    <string name="input_access_code" translatable="true">Input Access Code</string>
+    <string name="access_code">Access Code</string>
+    <string name="start">Start</string>
+    <string name="pin_empty">Pin Empty</string>
+    <string name="pin_incorrect">Pin Incorrect</string>
+    <string name="dont_have_access_code">Don\'t Have Access Code?</string>
+    <string name="contact">Contact</string>
+    <string name="penantian_com">Penantian.com</string>
+    <string name="access_denied">Access Denied</string>
+    <string name="access_accepted">Access Allowed</string>
+    <string name="open_spreadsheet">Open Spreadsheet</string>
+    <string name="spreadsheet_not_yet_configured">Spreadsheet not yet configured.</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="setting">Setting</string>
+    <string name="preview">Preview</string>
+    <string name="name">Name</string>
+    <string name="result">Result</string>
+    <string name="time">Time</string>
+    <string name="logout">Logout</string>
+    <string name="help">Help</string>
+    <string name="export_pdf">Ekspor PDF</string>
+</resources>
